@@ -1,5 +1,4 @@
 from tkinter import Tk, DISABLED, NORMAL, ttk
-
 from frame import Frame
 
 FRAME_NUMBER = 10
