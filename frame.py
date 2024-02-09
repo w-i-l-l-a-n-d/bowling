@@ -1,7 +1,5 @@
 NOT_YET = -1
-STRIKE = -2
-IGNORE = -3
-SPARE = -4
+IGNORE = -2
 
 
 class Frame:
